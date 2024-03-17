@@ -1,6 +1,6 @@
 var ringer = {
   //countdown_to: MM/dd/YYYY",
-  countdown_to: "10/14/2023",
+  countdown_to: "05/15/2024 12:00:00",
   rings: {
     'DAYS': { 
       s: 86400000, // mseconds in a day,
@@ -94,7 +94,7 @@ var ringer = {
     $r.ctx.stroke();
     
     // label
-    $r.ctx.fillStyle = "#FFFFFF";
+    $r.ctx.fillStyle = "#000000";
    
     $r.ctx.font = '25px Helvetica';
     $r.ctx.fillText(label, 0, 23);

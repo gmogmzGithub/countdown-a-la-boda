@@ -41,7 +41,7 @@ body {
 
 .pl {
   font-family: "Copperplate";
-  font-size: 50px;
+  font-size: 60px; /* Adjusted from 50px to make it bigger */
   text-shadow: 1px 2px 2px #000000;
 }
 
@@ -53,7 +53,7 @@ body {
 
 .wedding {
   font-family: "Brush Script MT";
-  font-size: 50px;
+  font-size: 60px; /* Adjusted from 50px to make it bigger */
   text-shadow: 2px 2px 2px #000000;
 }
 
